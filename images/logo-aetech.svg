@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4a6cf7" />
+      <stop offset="100%" stop-color="#24bddf" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fondo del logo -->
+  <rect x="10" y="15" width="60" height="50" rx="10" fill="url(#logoGradient)" />
+  
+  <!-- Letras AE -->
+  <text x="20" y="50" font-family="Montserrat, sans-serif" font-size="30" font-weight="bold" fill="white">AE</text>
+  
+  <!-- Tech -->
+  <text x="80" y="50" font-family="Montserrat, sans-serif" font-size="28" font-weight="bold" fill="#333">TECH</text>
+  
+  <!-- Subtext -->
+  <text x="80" y="65" font-family="Open Sans, sans-serif" font-size="12" fill="#666">TECHNOLOGIES</text>
+</svg>
